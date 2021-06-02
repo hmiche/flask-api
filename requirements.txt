@@ -29,7 +29,7 @@ scipy==1.4.1
 six==1.14.0
 sklearn==0.0
 sqlparse==0.3.1
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.20
 virtualenvwrapper-win==1.2.6
 Werkzeug==1.0.1
